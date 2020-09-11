@@ -1,0 +1,414 @@
+,gender,3yB_purchase,job_cat,wealth_seg,owns_car,state,age
+1,Male,69,Property,Mass Customer,No,NSW,50
+4,Female,34,Financial Services,Affluent Customer,No,NSW,55
+6,Male,23,Financial Services,Mass Customer,No,NSW,44
+8,Male,50,Manufacturing,Mass Customer,Yes,NSW,48
+12,Male,60,Telecommunications,Mass Customer,No,NSW,30
+13,Female,38,Health,Mass Customer,No,NSW,44
+15,Male,88,Manufacturing,Affluent Customer,Yes,NSW,66
+18,Female,65,Manufacturing,Affluent Customer,Yes,NSW,82
+19,Female,2,Manufacturing,High Net Worth,No,NSW,66
+20,Male,11,Manufacturing,Mass Customer,Yes,NSW,52
+21,Male,44,Financial Services,Mass Customer,Yes,NSW,27
+26,Female,19,Retail,Mass Customer,Yes,NSW,68
+30,Female,62,Financial Services,High Net Worth,Yes,NSW,40
+31,Male,70,Health,Mass Customer,Yes,NSW,69
+32,Female,88,Financial Services,Mass Customer,Yes,NSW,33
+39,Male,64,Manufacturing,Affluent Customer,Yes,NSW,27
+40,Female,73,Health,High Net Worth,No,NSW,67
+42,Female,79,Retail,Mass Customer,No,NSW,74
+45,Female,29,Retail,High Net Worth,Yes,NSW,64
+49,Male,12,Argiculture,Mass Customer,No,NSW,70
+53,Female,97,Property,Mass Customer,No,NSW,39
+55,Female,52,Manufacturing,Mass Customer,No,NSW,39
+56,Male,75,Argiculture,Mass Customer,No,NSW,41
+60,Male,47,Financial Services,High Net Worth,Yes,NSW,37
+61,Male,31,Argiculture,Mass Customer,Yes,NSW,49
+62,Male,59,Financial Services,High Net Worth,No,NSW,78
+65,Female,58,Retail,High Net Worth,No,NSW,37
+70,Female,11,Health,High Net Worth,Yes,NSW,24
+71,Female,78,Financial Services,Mass Customer,No,NSW,26
+74,Female,76,Financial Services,Affluent Customer,Yes,NSW,62
+75,Male,98,Manufacturing,High Net Worth,Yes,NSW,46
+76,Male,0,Health,Mass Customer,No,NSW,59
+78,Female,15,Manufacturing,Mass Customer,Yes,NSW,48
+79,Female,15,Entertainment,High Net Worth,No,NSW,47
+80,Male,53,Manufacturing,Mass Customer,No,NSW,25
+81,Female,34,Financial Services,Mass Customer,No,NSW,55
+82,Female,14,Financial Services,Mass Customer,No,NSW,39
+84,Male,48,Manufacturing,High Net Worth,Yes,NSW,59
+86,Female,8,Entertainment,Affluent Customer,No,NSW,21
+88,Male,49,Manufacturing,Mass Customer,Yes,NSW,70
+91,Female,34,Health,Mass Customer,No,NSW,42
+92,Female,84,Retail,Mass Customer,No,NSW,43
+95,Male,91,Manufacturing,High Net Worth,Yes,NSW,21
+98,Male,26,Manufacturing,High Net Worth,No,NSW,48
+102,Male,19,Manufacturing,Mass Customer,No,NSW,80
+106,Female,21,Argiculture,Mass Customer,No,NSW,57
+115,Male,45,Health,Mass Customer,No,NSW,23
+116,Male,64,Telecommunications,Affluent Customer,Yes,NSW,74
+119,Female,2,Property,Mass Customer,Yes,NSW,68
+120,Male,71,Retail,Affluent Customer,No,NSW,39
+127,Male,13,Manufacturing,Mass Customer,Yes,NSW,45
+129,Female,51,Retail,Affluent Customer,Yes,NSW,30
+130,Female,78,Manufacturing,Affluent Customer,Yes,NSW,58
+133,Male,29,Manufacturing,Mass Customer,No,NSW,35
+134,Female,27,Manufacturing,Affluent Customer,Yes,NSW,42
+137,Male,28,Health,Mass Customer,Yes,NSW,53
+138,Female,12,Financial Services,Mass Customer,Yes,NSW,41
+141,Male,14,Health,Affluent Customer,Yes,NSW,19
+143,Male,6,Financial Services,High Net Worth,Yes,NSW,45
+145,Female,40,Financial Services,Mass Customer,No,NSW,70
+146,Female,82,Manufacturing,Mass Customer,No,NSW,55
+147,Male,38,Retail,Mass Customer,No,NSW,51
+149,Female,39,Property,Mass Customer,No,NSW,49
+151,Female,30,Manufacturing,Affluent Customer,Yes,NSW,59
+152,Male,61,Financial Services,Mass Customer,Yes,NSW,51
+155,Female,74,Property,Mass Customer,Yes,NSW,57
+157,Female,16,Health,Mass Customer,No,NSW,63
+160,Male,37,Property,Affluent Customer,No,NSW,34
+162,Female,60,Manufacturing,Affluent Customer,Yes,NSW,51
+165,Male,55,Health,Mass Customer,No,NSW,44
+166,Female,65,Financial Services,High Net Worth,No,NSW,47
+171,Male,36,Property,Mass Customer,Yes,NSW,64
+172,Male,60,Financial Services,Mass Customer,Yes,NSW,31
+175,Female,54,Telecommunications,High Net Worth,No,NSW,28
+177,Male,51,Manufacturing,Mass Customer,No,NSW,68
+178,Male,92,Retail,Mass Customer,Yes,NSW,70
+180,Male,39,Health,High Net Worth,No,NSW,55
+183,Male,34,Manufacturing,Mass Customer,Yes,NSW,46
+186,Female,26,Financial Services,High Net Worth,No,NSW,49
+189,Male,74,IT,Affluent Customer,No,NSW,24
+190,Female,32,Property,Affluent Customer,No,NSW,28
+191,Male,55,Health,Mass Customer,Yes,NSW,82
+192,Female,16,Telecommunications,High Net Worth,No,NSW,50
+193,Female,47,Argiculture,Mass Customer,No,NSW,51
+201,Female,84,Health,Mass Customer,No,NSW,61
+202,Male,47,Manufacturing,Affluent Customer,Yes,NSW,75
+208,Female,12,Health,High Net Worth,No,NSW,62
+210,Male,32,Financial Services,Mass Customer,No,NSW,53
+211,Male,82,Health,High Net Worth,Yes,NSW,37
+213,Male,28,Entertainment,High Net Worth,No,NSW,64
+215,Male,11,Manufacturing,Mass Customer,No,NSW,20
+218,Male,78,Financial Services,Mass Customer,Yes,NSW,40
+219,Male,7,IT,Affluent Customer,No,NSW,26
+221,Male,66,Health,Mass Customer,Yes,NSW,41
+223,Male,66,Health,High Net Worth,No,NSW,20
+227,Male,54,Financial Services,High Net Worth,No,NSW,56
+228,Female,46,Financial Services,Mass Customer,No,NSW,66
+230,Male,52,Health,Mass Customer,Yes,NSW,42
+231,Male,50,Manufacturing,Mass Customer,Yes,NSW,77
+233,Female,53,Property,Mass Customer,No,NSW,77
+235,Male,41,Health,Affluent Customer,No,NSW,80
+236,Female,97,Telecommunications,High Net Worth,Yes,NSW,77
+248,Male,59,Property,High Net Worth,Yes,NSW,42
+250,Female,90,Financial Services,Mass Customer,No,NSW,45
+252,Female,13,Retail,Mass Customer,No,NSW,59
+253,Female,91,IT,Mass Customer,No,NSW,40
+254,Female,75,Financial Services,High Net Worth,No,NSW,23
+259,Female,41,Manufacturing,High Net Worth,No,NSW,49
+266,Female,81,Property,Mass Customer,Yes,NSW,51
+269,Female,89,Health,High Net Worth,No,NSW,48
+271,Male,70,Argiculture,Mass Customer,Yes,NSW,59
+272,Female,99,Manufacturing,Mass Customer,No,NSW,44
+273,Male,48,Manufacturing,Mass Customer,No,NSW,64
+274,Male,35,Manufacturing,Affluent Customer,No,NSW,44
+276,Female,70,Telecommunications,High Net Worth,No,NSW,67
+285,Male,3,Financial Services,High Net Worth,Yes,NSW,63
+288,Female,96,Retail,Affluent Customer,Yes,NSW,44
+295,Female,68,Financial Services,Mass Customer,Yes,NSW,32
+296,Male,73,Property,High Net Worth,No,NSW,50
+297,Male,97,Financial Services,Mass Customer,Yes,NSW,55
+298,Female,91,Argiculture,Mass Customer,No,NSW,29
+299,Female,59,Retail,Mass Customer,No,NSW,73
+302,Male,79,Health,Affluent Customer,Yes,NSW,39
+307,Female,63,Financial Services,High Net Worth,Yes,NSW,61
+308,Female,45,Health,Mass Customer,No,NSW,39
+309,Male,21,Manufacturing,Mass Customer,Yes,NSW,49
+312,Male,61,Manufacturing,High Net Worth,No,NSW,31
+313,Male,95,Manufacturing,Mass Customer,No,NSW,52
+318,Female,74,Health,Affluent Customer,Yes,NSW,65
+319,Male,87,Financial Services,Affluent Customer,Yes,NSW,39
+321,Male,23,Financial Services,High Net Worth,No,NSW,43
+322,Female,0,Property,Mass Customer,No,NSW,39
+329,Female,32,Property,Mass Customer,No,NSW,48
+334,Female,62,Financial Services,Mass Customer,Yes,NSW,75
+335,Male,81,Manufacturing,Mass Customer,No,NSW,77
+338,Male,18,Manufacturing,Mass Customer,Yes,NSW,64
+345,Female,71,IT,Mass Customer,Yes,NSW,68
+346,Female,43,Property,Mass Customer,Yes,NSW,79
+348,Female,11,Health,Mass Customer,No,NSW,67
+351,Female,59,Financial Services,Mass Customer,No,NSW,56
+353,Male,19,Health,Affluent Customer,Yes,NSW,67
+355,Female,45,Health,Affluent Customer,No,NSW,40
+357,Male,59,Manufacturing,Affluent Customer,No,NSW,49
+361,Male,7,Telecommunications,Mass Customer,No,NSW,41
+362,Female,67,Financial Services,Mass Customer,Yes,NSW,23
+364,Female,62,Financial Services,Mass Customer,Yes,NSW,21
+366,Female,84,Financial Services,Mass Customer,No,NSW,49
+371,Male,30,Health,Mass Customer,Yes,NSW,57
+372,Male,4,Entertainment,Mass Customer,No,NSW,46
+380,Female,7,Manufacturing,Mass Customer,No,NSW,57
+381,Female,4,Financial Services,Affluent Customer,Yes,NSW,24
+382,Male,85,Health,Mass Customer,Yes,NSW,56
+383,Female,65,Entertainment,Affluent Customer,No,NSW,76
+386,Female,11,Health,Mass Customer,No,NSW,59
+391,Female,92,Manufacturing,Affluent Customer,No,NSW,81
+392,Male,36,Retail,Mass Customer,Yes,NSW,38
+395,Female,73,Entertainment,Mass Customer,Yes,NSW,59
+398,Male,54,Health,Mass Customer,Yes,NSW,78
+399,Male,72,Financial Services,Affluent Customer,No,NSW,41
+400,Male,53,IT,Mass Customer,No,NSW,44
+403,Male,80,Financial Services,Affluent Customer,Yes,NSW,42
+405,Female,5,Financial Services,Mass Customer,Yes,NSW,40
+406,Male,21,Health,Mass Customer,No,NSW,82
+412,Male,65,Manufacturing,Mass Customer,No,NSW,66
+413,Female,48,Health,High Net Worth,No,NSW,62
+414,Male,37,Manufacturing,Mass Customer,No,NSW,82
+417,Female,46,Financial Services,Mass Customer,No,NSW,31
+418,Male,76,Financial Services,Affluent Customer,Yes,NSW,22
+419,Female,33,Financial Services,Mass Customer,No,NSW,29
+420,Female,90,Property,Mass Customer,No,NSW,72
+421,Male,97,Argiculture,Mass Customer,Yes,NSW,50
+422,Male,3,Property,Mass Customer,No,NSW,29
+424,Male,70,Manufacturing,Mass Customer,Yes,NSW,75
+427,Female,52,Manufacturing,High Net Worth,No,NSW,51
+428,Female,6,Property,Affluent Customer,Yes,NSW,43
+430,Male,23,Argiculture,Mass Customer,Yes,NSW,46
+431,Female,58,IT,Mass Customer,Yes,NSW,45
+436,Male,37,Manufacturing,High Net Worth,Yes,NSW,23
+438,Male,47,Financial Services,Mass Customer,No,NSW,68
+440,Female,59,Entertainment,High Net Worth,Yes,NSW,79
+442,Female,30,Argiculture,Mass Customer,Yes,NSW,33
+443,Female,59,IT,Mass Customer,No,NSW,56
+448,Male,61,Retail,Affluent Customer,No,NSW,43
+452,Female,12,Manufacturing,High Net Worth,No,NSW,77
+453,Male,42,Financial Services,High Net Worth,No,NSW,38
+454,Male,70,Financial Services,Mass Customer,No,NSW,35
+459,Male,7,Retail,Affluent Customer,Yes,NSW,69
+463,Male,56,Property,Mass Customer,Yes,NSW,55
+464,Female,25,Retail,Mass Customer,No,NSW,43
+468,Female,75,Argiculture,Mass Customer,No,NSW,20
+472,Male,9,Manufacturing,Affluent Customer,No,NSW,21
+473,Male,99,IT,Affluent Customer,Yes,NSW,64
+474,Male,31,Entertainment,Mass Customer,Yes,NSW,41
+475,Male,7,Health,Affluent Customer,Yes,NSW,19
+477,Female,43,Financial Services,High Net Worth,No,NSW,25
+479,Female,73,Health,High Net Worth,No,NSW,69
+482,Female,13,Retail,Affluent Customer,No,NSW,81
+490,Female,72,Manufacturing,Mass Customer,Yes,NSW,45
+492,Female,55,Manufacturing,Mass Customer,No,NSW,24
+495,Male,86,Financial Services,Affluent Customer,Yes,NSW,23
+496,Female,59,Property,High Net Worth,No,NSW,68
+502,Female,10,Entertainment,Affluent Customer,Yes,NSW,46
+508,Female,6,Manufacturing,Mass Customer,Yes,NSW,44
+510,Male,4,Financial Services,Mass Customer,No,NSW,47
+518,Female,79,Manufacturing,Affluent Customer,No,NSW,21
+520,Female,33,Manufacturing,High Net Worth,No,NSW,69
+522,Male,60,Entertainment,High Net Worth,No,NSW,29
+523,Male,44,Argiculture,Affluent Customer,Yes,NSW,70
+529,Female,56,IT,High Net Worth,No,NSW,47
+531,Female,71,Financial Services,Mass Customer,Yes,NSW,39
+533,Male,55,Financial Services,Mass Customer,No,NSW,65
+536,Male,16,Argiculture,Mass Customer,Yes,NSW,42
+539,Female,37,Manufacturing,Mass Customer,No,NSW,23
+540,Male,80,Manufacturing,High Net Worth,No,NSW,55
+542,Female,10,Financial Services,Affluent Customer,No,NSW,45
+543,Male,68,Manufacturing,Mass Customer,No,NSW,70
+545,Female,0,Health,Mass Customer,No,NSW,43
+546,Female,99,Financial Services,Mass Customer,No,NSW,48
+547,Female,37,Entertainment,High Net Worth,Yes,NSW,47
+548,Male,69,Retail,Affluent Customer,No,NSW,36
+549,Female,42,Financial Services,High Net Worth,Yes,NSW,29
+553,Female,55,Financial Services,Affluent Customer,No,NSW,62
+554,Female,79,Financial Services,High Net Worth,Yes,NSW,25
+555,Male,23,Manufacturing,High Net Worth,No,NSW,27
+557,Male,46,Manufacturing,High Net Worth,No,NSW,26
+558,Male,70,Manufacturing,High Net Worth,No,NSW,73
+559,Male,60,Manufacturing,High Net Worth,No,NSW,70
+563,Male,67,Health,Affluent Customer,No,NSW,53
+564,Female,87,Retail,Affluent Customer,Yes,NSW,65
+565,Male,73,Financial Services,High Net Worth,Yes,NSW,65
+566,Female,17,Telecommunications,High Net Worth,Yes,NSW,56
+570,Female,53,Financial Services,Mass Customer,Yes,NSW,52
+571,Male,81,Entertainment,Mass Customer,Yes,NSW,70
+572,Male,1,Financial Services,Mass Customer,No,NSW,78
+577,Male,33,Financial Services,High Net Worth,Yes,NSW,44
+578,Female,64,Retail,Mass Customer,No,NSW,26
+580,Female,47,Telecommunications,Mass Customer,No,NSW,47
+583,Male,9,Health,Mass Customer,Yes,NSW,25
+588,Male,83,Health,High Net Worth,No,NSW,46
+593,Male,13,Property,Mass Customer,No,NSW,65
+597,Male,29,Entertainment,High Net Worth,No,NSW,26
+600,Male,63,Financial Services,Affluent Customer,Yes,NSW,24
+601,Male,68,Health,Affluent Customer,Yes,NSW,23
+606,Male,96,Manufacturing,Mass Customer,Yes,NSW,65
+607,Female,80,Manufacturing,Mass Customer,Yes,NSW,41
+608,Male,70,Health,Mass Customer,Yes,NSW,50
+609,Female,94,Manufacturing,Mass Customer,Yes,NSW,22
+612,Male,29,Health,Affluent Customer,Yes,NSW,70
+614,Female,63,IT,Mass Customer,No,NSW,63
+615,Male,62,Health,Mass Customer,Yes,NSW,57
+616,Female,47,Property,Affluent Customer,Yes,NSW,64
+618,Female,61,Retail,High Net Worth,No,NSW,61
+620,Male,88,Financial Services,Mass Customer,Yes,NSW,65
+625,Male,51,Manufacturing,Affluent Customer,Yes,NSW,27
+628,Male,42,Property,Affluent Customer,Yes,NSW,81
+636,Male,97,Retail,High Net Worth,No,NSW,42
+638,Female,70,Retail,Affluent Customer,Yes,NSW,70
+641,Male,42,Property,Mass Customer,No,NSW,38
+643,Male,82,Manufacturing,Mass Customer,No,NSW,58
+645,Female,38,Argiculture,High Net Worth,Yes,NSW,80
+646,Male,93,Retail,Affluent Customer,Yes,NSW,25
+647,Male,24,Financial Services,Mass Customer,No,NSW,39
+649,Male,58,Manufacturing,High Net Worth,Yes,NSW,62
+655,Female,2,Financial Services,Mass Customer,Yes,NSW,76
+657,Female,34,Manufacturing,Affluent Customer,Yes,NSW,78
+661,Male,94,Manufacturing,Affluent Customer,Yes,NSW,61
+663,Female,59,Health,High Net Worth,No,NSW,80
+665,Male,13,Property,Mass Customer,No,NSW,60
+672,Female,5,Health,High Net Worth,No,NSW,76
+675,Female,73,Health,High Net Worth,No,NSW,58
+676,Female,8,Health,Mass Customer,No,NSW,68
+677,Male,99,Financial Services,Mass Customer,No,NSW,54
+678,Female,36,Health,Mass Customer,No,NSW,24
+679,Male,93,Retail,Mass Customer,Yes,NSW,50
+680,Female,70,Property,Affluent Customer,Yes,NSW,24
+683,Female,98,Health,Mass Customer,Yes,NSW,42
+685,Female,95,Entertainment,Mass Customer,Yes,NSW,40
+687,Male,22,Manufacturing,Mass Customer,No,NSW,79
+689,Male,69,Health,High Net Worth,Yes,NSW,82
+692,Male,70,Financial Services,Affluent Customer,No,NSW,47
+694,Male,68,Property,High Net Worth,Yes,NSW,43
+695,Male,91,Retail,Mass Customer,Yes,NSW,29
+697,Male,31,Manufacturing,Mass Customer,No,NSW,63
+700,Female,44,Health,High Net Worth,Yes,NSW,39
+701,Female,39,Telecommunications,High Net Worth,No,NSW,46
+702,Male,97,Manufacturing,Mass Customer,No,NSW,55
+705,Female,99,Financial Services,High Net Worth,No,NSW,69
+707,Male,18,Health,Mass Customer,Yes,NSW,74
+708,Female,64,Financial Services,Mass Customer,No,NSW,21
+709,Male,57,Health,Affluent Customer,Yes,NSW,48
+714,Female,74,Financial Services,High Net Worth,No,NSW,70
+715,Female,82,Telecommunications,Mass Customer,Yes,NSW,57
+719,Male,71,Financial Services,Mass Customer,Yes,NSW,54
+720,Male,12,Manufacturing,Mass Customer,No,NSW,42
+727,Male,75,Property,Mass Customer,Yes,NSW,27
+728,Male,28,Health,Affluent Customer,Yes,NSW,64
+729,Female,60,Health,Affluent Customer,Yes,NSW,59
+730,Male,87,IT,Mass Customer,Yes,NSW,23
+734,Male,17,Manufacturing,Mass Customer,Yes,NSW,39
+738,Male,48,Manufacturing,High Net Worth,No,NSW,45
+741,Male,68,Financial Services,Mass Customer,Yes,NSW,46
+744,Male,87,Entertainment,Mass Customer,No,NSW,22
+745,Male,43,Retail,Affluent Customer,No,NSW,44
+749,Female,7,Retail,Affluent Customer,No,NSW,49
+753,Male,35,Health,Mass Customer,No,NSW,55
+757,Female,32,Financial Services,Mass Customer,Yes,NSW,47
+758,Male,69,Health,High Net Worth,No,NSW,38
+759,Female,79,Health,High Net Worth,No,NSW,42
+763,Male,52,Financial Services,Affluent Customer,No,NSW,18
+766,Male,89,Health,Affluent Customer,No,NSW,21
+767,Female,4,Manufacturing,Affluent Customer,Yes,NSW,30
+768,Female,11,Retail,Mass Customer,Yes,NSW,55
+771,Female,23,Health,Affluent Customer,No,NSW,36
+772,Male,47,Manufacturing,High Net Worth,Yes,NSW,67
+774,Male,46,Financial Services,High Net Worth,No,NSW,27
+777,Female,38,Entertainment,Affluent Customer,No,NSW,54
+778,Male,40,Manufacturing,Mass Customer,Yes,NSW,48
+780,Female,30,Health,Mass Customer,No,NSW,39
+783,Male,98,Health,Mass Customer,No,NSW,28
+784,Male,66,Manufacturing,Affluent Customer,No,NSW,26
+785,Male,89,Health,High Net Worth,No,NSW,64
+787,Male,1,IT,High Net Worth,No,NSW,38
+789,Female,32,Manufacturing,Mass Customer,Yes,NSW,28
+790,Female,93,Health,Affluent Customer,Yes,NSW,46
+792,Female,79,Entertainment,High Net Worth,No,NSW,66
+793,Male,21,Health,Mass Customer,No,NSW,65
+794,Female,61,Health,Affluent Customer,No,NSW,69
+797,Male,7,Health,Mass Customer,No,NSW,82
+798,Female,0,Manufacturing,Affluent Customer,No,NSW,39
+799,Male,77,Manufacturing,Affluent Customer,No,NSW,71
+800,Female,64,Manufacturing,High Net Worth,No,NSW,38
+801,Female,25,Health,Mass Customer,Yes,NSW,46
+802,Female,77,Health,Mass Customer,No,NSW,40
+807,Male,67,Financial Services,High Net Worth,No,NSW,80
+808,Male,94,Financial Services,Mass Customer,No,NSW,35
+810,Female,94,Financial Services,Affluent Customer,Yes,NSW,52
+812,Female,39,Manufacturing,Affluent Customer,Yes,NSW,42
+817,Male,42,Health,Mass Customer,Yes,NSW,80
+824,Female,11,Financial Services,Mass Customer,Yes,NSW,47
+828,Female,60,Health,High Net Worth,Yes,NSW,57
+829,Female,67,Financial Services,Mass Customer,Yes,NSW,28
+831,Female,29,Property,High Net Worth,Yes,NSW,47
+832,Female,66,IT,Mass Customer,Yes,NSW,53
+842,Female,79,Property,High Net Worth,Yes,NSW,62
+843,Female,25,Financial Services,Mass Customer,No,NSW,19
+845,Male,22,Manufacturing,Mass Customer,No,NSW,26
+848,Female,62,Health,High Net Worth,Yes,NSW,23
+851,Female,63,Manufacturing,Mass Customer,No,NSW,64
+852,Male,62,Health,Mass Customer,Yes,NSW,22
+854,Female,45,Property,High Net Worth,Yes,NSW,40
+857,Female,67,Health,Affluent Customer,Yes,NSW,81
+858,Male,88,Health,Affluent Customer,Yes,NSW,61
+862,Male,54,Financial Services,Affluent Customer,No,NSW,67
+863,Female,2,Manufacturing,Affluent Customer,Yes,NSW,20
+869,Male,95,Health,Mass Customer,Yes,NSW,46
+870,Female,47,Financial Services,Mass Customer,No,NSW,53
+871,Female,76,Health,High Net Worth,Yes,NSW,59
+872,Female,37,Health,High Net Worth,No,NSW,67
+876,Female,57,Manufacturing,Mass Customer,No,NSW,64
+878,Female,30,Health,High Net Worth,Yes,NSW,26
+885,Male,40,Financial Services,Affluent Customer,Yes,NSW,82
+886,Male,52,Telecommunications,Mass Customer,No,NSW,26
+887,Female,27,Argiculture,Affluent Customer,Yes,NSW,63
+889,Male,64,Manufacturing,Affluent Customer,No,NSW,49
+891,Male,51,Property,Mass Customer,Yes,NSW,48
+892,Female,11,Manufacturing,High Net Worth,Yes,NSW,21
+897,Male,47,Health,Mass Customer,No,NSW,61
+898,Female,38,Property,Affluent Customer,No,NSW,68
+899,Male,5,Health,High Net Worth,No,NSW,52
+901,Female,53,Manufacturing,Mass Customer,No,NSW,56
+903,Female,84,Manufacturing,Affluent Customer,Yes,NSW,47
+905,Female,77,Health,Mass Customer,No,NSW,47
+908,Male,10,Health,Affluent Customer,No,NSW,20
+909,Female,65,Retail,Mass Customer,Yes,NSW,63
+910,Female,49,Manufacturing,Mass Customer,No,NSW,45
+915,Female,58,Entertainment,High Net Worth,No,NSW,33
+919,Male,78,Telecommunications,High Net Worth,No,NSW,70
+921,Female,59,Health,Mass Customer,No,NSW,30
+922,Male,51,Property,Mass Customer,Yes,NSW,39
+923,Female,22,Manufacturing,High Net Worth,No,NSW,37
+924,Female,2,Financial Services,Mass Customer,Yes,NSW,47
+928,Female,84,Financial Services,High Net Worth,Yes,NSW,42
+931,Female,98,Manufacturing,Affluent Customer,No,NSW,44
+932,Female,30,Telecommunications,Mass Customer,Yes,NSW,33
+937,Female,41,Financial Services,High Net Worth,Yes,NSW,75
+939,Male,98,Retail,High Net Worth,No,NSW,74
+942,Female,63,Health,Affluent Customer,Yes,NSW,49
+944,Male,91,Property,Mass Customer,No,NSW,28
+945,Female,63,Retail,High Net Worth,No,NSW,79
+946,Female,44,Manufacturing,High Net Worth,Yes,NSW,32
+948,Male,13,Manufacturing,High Net Worth,Yes,NSW,26
+953,Female,74,Manufacturing,Mass Customer,Yes,NSW,58
+956,Female,59,Retail,Mass Customer,Yes,NSW,25
+960,Female,0,Financial Services,Mass Customer,No,NSW,45
+962,Male,82,Property,Affluent Customer,Yes,NSW,51
+964,Female,42,Health,Mass Customer,Yes,NSW,45
+965,Male,33,Telecommunications,Affluent Customer,No,NSW,26
+967,Female,74,Manufacturing,High Net Worth,No,NSW,60
+968,Male,60,Health,High Net Worth,Yes,NSW,34
+969,Male,3,Manufacturing,High Net Worth,Yes,NSW,69
+970,Female,30,Property,Affluent Customer,Yes,NSW,53
+972,Male,82,Health,Mass Customer,Yes,NSW,22
+977,Female,56,IT,Mass Customer,No,NSW,82
+979,Male,93,Argiculture,Mass Customer,Yes,NSW,34
+982,Male,45,Property,Mass Customer,No,NSW,64
+986,Male,41,IT,Mass Customer,Yes,NSW,61
+987,Female,44,Health,Mass Customer,No,NSW,23
+988,Female,64,Manufacturing,Mass Customer,Yes,NSW,77
+989,Female,83,Manufacturing,High Net Worth,Yes,NSW,75
+993,Male,38,Financial Services,Mass Customer,Yes,NSW,61
+995,Male,60,Financial Services,Affluent Customer,No,NSW,61
+996,Male,22,Health,Mass Customer,No,NSW,19
+999,Male,56,Property,Mass Customer,Yes,NSW,65
